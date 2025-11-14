@@ -33,6 +33,7 @@ while True:
 ## OUPUT
 ### CLIENT
 <img width="607" height="296" alt="image" src="https://github.com/user-attachments/assets/1ceb1945-adb4-40f6-8853-b227aa0ff0f5" />
+
 ### SERVER
 <img width="580" height="189" alt="image" src="https://github.com/user-attachments/assets/47caf091-9992-4fa0-9b79-7ed71da1965c" />
 
